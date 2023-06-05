@@ -51,7 +51,7 @@ const AppContextProvider = ({ children }) => {
         ? inputData[firstInput]
         : inputData[secondInput];
     axios
-      .get("http://www.omdbapi.com/", {
+      .get("https://www.omdbapi.com/", {
         params: {
           apikey: "7bcc53f0",
           s: activeInputData,
@@ -72,7 +72,7 @@ const AppContextProvider = ({ children }) => {
   console.log(isBothSides);
   const fetchDataById = (searchId, activeInput) => {
     axios
-      .get("http://www.omdbapi.com/", {
+      .get("https://www.omdbapi.com/", {
         params: {
           apikey: "7bcc53f0",
           i: searchId,
