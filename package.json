@@ -1,5 +1,6 @@
 {
-  "name": "https://manvir1947.github.io/movie-fight",
+  "homepage": "http://manvir1947.github.io/quiz-app",
+  "name": "movie-fight",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
