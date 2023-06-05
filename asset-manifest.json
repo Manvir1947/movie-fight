@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56cac255.css",
+    "main.js": "/static/js/main.3cb59146.js",
+    "static/media/6.svg": "/static/media/6.62eac628a57ee5bc93a1.svg",
+    "static/media/5.svg": "/static/media/5.f3472b4136ef673f5edb.svg",
+    "static/media/1.svg": "/static/media/1.668fcb6fe3945c7c863b.svg",
+    "static/media/8.svg": "/static/media/8.a3b5a1b9bae52c4a8820.svg",
+    "static/media/thumUp.svg": "/static/media/thumUp.39d7f16d3787c0e53fe8.svg",
+    "static/media/money.svg": "/static/media/money.7456c42828c8cf6cd415.svg",
+    "static/media/3.svg": "/static/media/3.898e0285270f3dcf043a.svg",
+    "static/media/9.svg": "/static/media/9.7c299b07c0b304ac06ae.svg",
+    "static/media/2.svg": "/static/media/2.18f834f5e2fd3d5b1379.svg",
+    "static/media/4.svg": "/static/media/4.48104bc829d63e37438a.svg",
+    "static/media/7.svg": "/static/media/7.b5078497f9a7c5191b4c.svg",
+    "index.html": "/index.html",
+    "static/media/imdb-svgrepo-com.svg": "/static/media/imdb-svgrepo-com.37cfb537d54124d7ec75.svg",
+    "main.56cac255.css.map": "/static/css/main.56cac255.css.map",
+    "main.3cb59146.js.map": "/static/js/main.3cb59146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56cac255.css",
+    "static/js/main.3cb59146.js"
+  ]
+}
